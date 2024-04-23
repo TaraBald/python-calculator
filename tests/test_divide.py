@@ -1,5 +1,5 @@
 
-from pythoncalculator import divide
+from pythonmaths import divide
 
 
 def test_divide():
