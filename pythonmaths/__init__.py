@@ -1,3 +1,3 @@
-"""Set up the module."""
-
-from .divide import divide 
+from .subtract import subtract
+from .multiply import multiply 
+from .divide import divide
