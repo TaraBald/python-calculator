@@ -6,11 +6,12 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pythonmaths"
+name = "pythoncalculator"
 dynamic = ["version"]
 authors = [
-  {name = "Author1", email = "author1@somewhere.com"},
-  {name = "Author2", email = "author2@somewhere.com"},
+   {name = "TaraBald", email = "lmn1@somewhere.com"},
+  {name = "Tzuhao38", email = "xyz1@somewhere.com"},
+  {name = "TCNG3", email = "abc2@somewhere.com"},
 ]
 description = "Perform mathematical calculations in Python"
 readme = "README.md"
@@ -26,8 +27,8 @@ dependencies = [
 ]
 
 [project.urls]
-Source = "https://github.com/<owner-account>/python-math"
-Bug_Tracker = "https://github.com/<owner-account>/python-math/issues"
+Source = "https://github.com/TaraBald/python-calculator"
+Bug_Tracker = "https://github.com/TaraBald/python-math/issues"
 
 [project.optional-dependencies]
 tests = [
