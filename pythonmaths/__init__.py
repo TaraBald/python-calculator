@@ -1,2 +1,2 @@
 """Set up the module."""
-from .subtract import subtract 
+from subtract import subtract 
