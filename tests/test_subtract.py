@@ -1,4 +1,4 @@
-from pythonmathsimport subtract
+from pythonmathsimport import subtract
 
 
 def test_subtract():
